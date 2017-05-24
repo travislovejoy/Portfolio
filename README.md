@@ -7,6 +7,10 @@ Analyzing the San Francisco 49ers 2012 QB Change from Alex Smith to Colin Kaeper
 
 Visualizing run/pass play calling in the NFL.
 
+## Win Probability
+
+Visualizing Win Probability based on Point Differential and Game Time
+
 ## nfldb.pdf
 
-SQL Database diagram in which all datasets were generated from. Link to that github project https://github.com/BurntSushi/nfldb
+SQL Database diagram in which all datasets were generated from github project found here https://github.com/BurntSushi/nfldb
