@@ -11,6 +11,6 @@ Visualizing run/pass play calling in the NFL.
 
 Visualizing Win Probability based on Point Differential and Game Time
 
-# nfldb.pdf
+## nfldb.pdf
 
 SQL Database diagram in which all datasets were generated from github project found here https://github.com/BurntSushi/nfldb
